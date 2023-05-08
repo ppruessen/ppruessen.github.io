@@ -38,7 +38,7 @@ a {
 
 a:hover {
   color: #2f433f;
-  text-decoration: underline;
+  font-size: 1.1em;
 }
 
 img {
@@ -83,6 +83,15 @@ li a:hover {
 
 p {
   line-height: 1.2em;
+  margin-bottom: 50px;
+}
+
+#btn-blue {
+  background-color: #0D3B66;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
 }
 
 
