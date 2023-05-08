@@ -141,4 +141,8 @@ p {
   .card {
     width: 66%;
   }
+
+  #btn-blue {
+    font-size: 0.7em;
+  }
 }
