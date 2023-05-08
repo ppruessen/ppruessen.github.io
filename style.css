@@ -81,6 +81,10 @@ li a:hover {
   font-size: 1.2em;
 }
 
+p {
+  line-height: 1.2em;
+}
+
 
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
@@ -92,6 +96,7 @@ li a:hover {
 
   .card {
     width: 66%;
+  }
 }
 
 @media (max-width: 720px) {
@@ -104,7 +109,7 @@ li a:hover {
 
   .card {
     width: 66%;
-}
+  }
 }
 
 @media (max-width: 540px) {
